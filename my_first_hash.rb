@@ -19,7 +19,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-               shipping_manifest.keys
+  puts shipping_manifest.keys
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
 end
